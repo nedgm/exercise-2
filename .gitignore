@@ -2,3 +2,5 @@
 sol/
 .vs/
 *.user
+bin/
+obj
