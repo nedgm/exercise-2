@@ -1,2 +1,6 @@
 *.png
 sol/
+.vs/
+*.user
+bin/
+obj
